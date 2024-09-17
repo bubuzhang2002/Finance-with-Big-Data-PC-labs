@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But not these files
+!PC labs/PC lab1.ipynb
+!.gitignore
